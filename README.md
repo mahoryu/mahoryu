@@ -1,16 +1,13 @@
-### Hi there 👋
+### Ethan Holden 🍳
 
-<!--
-**mahoryu/mahoryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Ethan. I am a Lambda School student studying Data Science and 
+I am passionate about using technology to both make things more efficient and
+to find and make conclusions that would otherwise be much harder to find.
 
-Here are some ideas to get you started:
+Some things to know about me:
+- 🛰 Languages include: Python, C++, and Visual Basic (specifically for Excel).
+- 🔭 I’m currently working on: an Asteroid game to refresh my OOP Python skills.
+- 🥧 Fun fact: Not only am I into code and all it can do, but I am also a certified culinarian with a passion for food.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me
+- LinkedIn - [Ethan Holden](https://www.linkedin.com/in/ethan-holden)
