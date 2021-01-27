@@ -1,6 +1,6 @@
 ### Ethan Holden 🍳
 
-Hi, I'm Ethan. I am a Lambda School student studying Data Science and 
+Hi, I'm Ethan. I am a Lambda School Data Science graduate and 
 I am passionate about using technology to both make things more efficient and
 to find and make conclusions that would otherwise be much harder to find.
 
